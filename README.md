@@ -1,6 +1,10 @@
 # Hi, I'm Matt MacQueen
 
-I'm a design leader exploring AI first design and coding environments, user interfaces, context, workflows, and Git/GitHub workflows. 
+I'm a design leader exploring AI-first design and coding environments, user interfaces, context, workflows, Git/GitHub, and agentic orchestration.
 
- 
-- Building macqueen.com - a personal bio website 
+## Current Projects
+
+- Building `macqueen.com` — a personal bio website
+- Homemade PDF redactor
+- Interview prep guide specific to person, role and level
+- S.O.A.R. story synthesizer and creator for portfolios
