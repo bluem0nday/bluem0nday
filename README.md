@@ -1,9 +1,10 @@
 # Hi, I'm Matt MacQueen
 
-I'm a product design leader exploring AI-first design and coding environments, user interfaces, context, workflows, Git/GitHub, and agentic orchestration.
+
+
+I'm a product design leader learning to build. I use AI coding tools to close the gap between design and working software — currently focused on Claude workflows, agentic tooling, and practical UI prototyping.
 
 ## Current Projects
 
-- Homemade PDF redactor 
-- Using Claude to help me scaffold a React app — I drove the user flows, design and UX decisions,  AI handled most code generation
-- S.O.A.R. story synthesizer and creator for case studies
+- Custom PDF redactor
+- SOAR (Situation, Obstacle, Action, Result) story synthesizer and coach for creating outcome-driven case studies.
