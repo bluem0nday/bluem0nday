@@ -1,6 +1,6 @@
 # Hi, I'm Matt MacQueen
 
-I'm a product design leader and AI builder using Claude Code to close the gap between design and working software. Right now that means Claude workflows, custom Cowork skills, screenshot and calendaring utilities for iOS, agentic workflows, evals, and good old practical concept prototyping.
+I'm a product leader and AI builder using Claude to close the gap between solving human problems with live working software. While the tools and LLMs change every 30 days, for now that means means crystalizing a problem, defining an outcome, and unleashing agents to break it down and build it up. Claude workflows, custom Cowork skills, screenshot and calendaring utilities for iOS, evals, and good old practical conceptual prototyping.
 
 [macqueen.com](https://macqueen.com) · [LinkedIn](https://www.linkedin.com/in/mattmacqueen/)
 
